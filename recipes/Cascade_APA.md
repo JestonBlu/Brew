@@ -20,3 +20,10 @@
 | 0.5 oz |	Cascade	Pellet |	7	Boil    |	10 min   |	5     |
 | 0.5 oz |	Cascade	Pellet |	7	Boil    |	5 min    |	2.75  |
 |  1 oz	 | Cascade	Pellet |	7	Dry Hop |	10 days  |        |
+
+
+#### Yeast
+* US-05 American Ale Yeast
+* Attenuation: 81%
+* Temperature: 54-77
+* Ideal Termp: 70
