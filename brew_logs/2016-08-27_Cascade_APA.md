@@ -14,10 +14,10 @@
   * Cool Down Time: 22 Minutes
   * Volume in Fermenter: 5g
   * Original Gravity: 1.05
-  * Days in Fermenter: 
-  * Days Dry Hopped:
-  * Final Gravity:
-
+  * Days in Primary Fermenter: 7
+  * Days in Secondary Fermenter: 10
+  * Days Dry Hopped: 10
+  * Final Gravity:1.01
 
 #### Additional Notes:
   * Glass fermenter was cracked, used plastic bucket
