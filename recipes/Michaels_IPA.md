@@ -1,12 +1,12 @@
 #### Michael's IPA
 
-Method: Partial Mash
-Style: American IPA
-Boil Time: 60 min
-Batch Size: 5.5 gallons (fermentor volume)
-Boil Size: 6.5 gallons
-Boil Gravity: 1.060 (recipe based estimate)
-Efficiency: 75% (brew house)
+* Method: Partial Mash
+* Style: American IPA
+* Boil Time: 60 min
+* Batch Size: 5.5 gallons (fermentor volume)
+* Boil Size: 6.5 gallons
+* Boil Gravity: 1.060 (recipe based estimate)
+* Efficiency: 75% (brew house)
 
 #### Fermentables
 
