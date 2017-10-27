@@ -34,7 +34,7 @@
 
 #### Yeast
 
-* Wyeast - London Ale 1028
+* Wyeast - London Ale 1028 (3 Liquid Packs)
 * Attenuation (avg): 75%
 * Flocculation:
   - Med-Low
