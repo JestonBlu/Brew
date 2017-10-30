@@ -28,7 +28,8 @@
 | Amount | Variety           | AA / Type       | Use	Time | IBU  |
 |--------|-------------------|-----------------|-----------|------|
 | 1 oz   | Warrior	Pellet   | 18.3 /	Boil     | 60 min    | 58.1 |
-| 2 oz   | Citra Pellet      |  7.0 / Dry Hop  | 14 days   |      |
+| 1 oz   | Citra Pellet      |  7.0 / Boil     |  5 min    |  8.2 |
+| 1 oz   | Citra Pellet      |  7.0 / Dry Hop  | 14 days   |      |
 | 2 oz   | El Dorado	Pellet | 13.6 /	Dry Hop  | 14 days   |      |
 | 2 oz   | Hop Hash          | 20.0 / Dry Hop  | 14 days   |      |
 

@@ -28,4 +28,4 @@
 
 * 6.5g of water needed, boil off 1.5g per hour
 * Check hose clamps wort chiller
-* Aerate before taking hydrometer reading9
+* Aerate before taking hydrometer reading
