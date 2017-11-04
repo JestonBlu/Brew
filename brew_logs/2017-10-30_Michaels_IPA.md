@@ -21,6 +21,7 @@
   * Days in Secondary Fermenter: ?
   * Days Dry Hopped: ?
   * Final Gravity: ?
+  * ABV:
 
 #### Additional Notes:
   * Outside temp: 44F

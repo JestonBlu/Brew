@@ -5,8 +5,11 @@
 * Boil Time: 60 min
 * Batch Size: 5.5 gallons (fermentor volume)
 * Boil Size: 6.5 gallons
-* Boil Gravity: 1.060 (recipe based estimate)
-* Efficiency: 75% (brew house)
+* Original Gravity: 1.070 (recipe based estimate)
+* Final Gravity: 1.018
+* ABV: 6.9
+* IBU: 66.2
+* SRM: 9.8
 
 #### Fermentables
 
