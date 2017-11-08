@@ -17,7 +17,6 @@
   * Ice Bucket and Ice
   * Wort Chiller
   * Plastic Bottling Bucket
-  * Hose
 
 
 * **Fermenter:**
