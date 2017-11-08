@@ -27,3 +27,4 @@
   * Outside temp: 44F
   * Exra long sock works good for hops and dry hopping
   * The fermentation was steady, not vigorous for about 5 days
+  * Start with 7G next time if using that much grain
