@@ -7,7 +7,7 @@
 * Boil Size: 6.5 gallons
 * Original Gravity: 1.070 (recipe based estimate)
 * Final Gravity: 1.018
-* ABV: 6.9
+* ABV: 6.9%
 * IBU: 66.2
 * SRM: 9.8
 
@@ -38,7 +38,7 @@
 
 #### Yeast
 
-* Wyeast - London Ale 1028 (3 Liquid Packs)
+* Wyeast - London Ale 1028 (3 liquid smack packs)
 * Attenuation (avg): 75%
 * Flocculation:
   - Med-Low
